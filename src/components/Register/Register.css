@@ -1,0 +1,57 @@
+.register {
+  width: 588px;
+  height: 576px;
+  border-radius: 57px;
+  background-color: #C4C4C4;
+  display: grid;
+  grid-template-columns: repeat (1, 1fr);
+  align-items: center;
+  /* justify-content: center; */
+  margin: 0 auto;
+}
+
+.register__title {
+  justify-self: center;
+  font-size: 46px;
+}
+
+.register__first-name,
+.register__last-name,
+.register__email,
+.register__password {
+  width: 420px;
+  height: 47px;
+  font-size: 40px;
+  border: none;
+  background-color: #C4C4C4;
+  color: black;
+  outline: none;
+  margin-left: 72px;
+}
+
+.register__first-name::placeholder,
+.register__last-name::placeholder,
+.register__email::placeholder,
+.register__password::placeholder {
+  color: black;
+}
+
+.register__submit {
+  width: 277px;
+  height: 73px;
+  border-radius: 63px;
+  border: none;
+  font-size: 40px;
+  line-height: 47px;
+  background-color: #828282;
+  justify-self: center;
+}
+
+.register__login {
+  color: #000;
+  justify-self: center;
+}
+
+.register__login:hover {
+  cursor: pointer;
+}

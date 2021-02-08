@@ -1,0 +1,27 @@
+.user-profile {
+  display: grid;
+  grid-template-columns: repeat (1, 1fr);
+}
+
+.user-profile__title {
+  justify-self: center;
+}
+
+.user-profile__logout {
+  justify-self: end;
+}
+
+.user-profile__main {
+  width: 379px;
+  height: 404px;
+  background: #C4C4C4;
+  border-radius: 25px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.user-profile__timer {
+  justify-self: center;
+}
