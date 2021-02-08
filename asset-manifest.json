@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tt-auth/static/css/main.77c75737.chunk.css",
+    "main.js": "/tt-auth/static/js/main.62a6bf7d.chunk.js",
+    "main.js.map": "/tt-auth/static/js/main.62a6bf7d.chunk.js.map",
+    "runtime-main.js": "/tt-auth/static/js/runtime-main.e4488cb2.js",
+    "runtime-main.js.map": "/tt-auth/static/js/runtime-main.e4488cb2.js.map",
+    "static/js/2.4706d027.chunk.js": "/tt-auth/static/js/2.4706d027.chunk.js",
+    "static/js/2.4706d027.chunk.js.map": "/tt-auth/static/js/2.4706d027.chunk.js.map",
+    "static/js/3.3fc12c9c.chunk.js": "/tt-auth/static/js/3.3fc12c9c.chunk.js",
+    "static/js/3.3fc12c9c.chunk.js.map": "/tt-auth/static/js/3.3fc12c9c.chunk.js.map",
+    "index.html": "/tt-auth/index.html",
+    "static/css/main.77c75737.chunk.css.map": "/tt-auth/static/css/main.77c75737.chunk.css.map",
+    "static/js/2.4706d027.chunk.js.LICENSE.txt": "/tt-auth/static/js/2.4706d027.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4488cb2.js",
+    "static/js/2.4706d027.chunk.js",
+    "static/css/main.77c75737.chunk.css",
+    "static/js/main.62a6bf7d.chunk.js"
+  ]
+}
